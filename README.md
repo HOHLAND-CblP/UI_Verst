@@ -2,6 +2,9 @@
 20:9
 ![2400x1080](https://user-images.githubusercontent.com/72488586/180191107-b65a605a-c186-4f0a-aee0-c114a7a038fc.png)
 
+21:9
+![2280х1080](https://user-images.githubusercontent.com/72488586/180302235-08e5ddd4-7bb1-419f-bc39-923ceed06a33.png)
+
 18:9
 ![2160х1080](https://user-images.githubusercontent.com/72488586/180301311-a123be12-db33-4761-9e3e-45ccfac40047.png)
 
